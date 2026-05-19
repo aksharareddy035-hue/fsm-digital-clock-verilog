@@ -23,6 +23,7 @@ This project helped in gaining practical exposure to:
 The original clock signal changes too fast to observe directly in simulation.  
 To make the waveform easier to understand, a clock divider module was used.The divider slows down the input clock and generates a slower clock signal (`clk_1hz`) which drives the digital clock, stopwatch, and alarm modules.
 The divider was also modified for fast simulation during waveform verification.To speed up simulation, reduced timing values were used instead of real-time 60-second and 60-minute counters.
+
 <img width="1886" height="466" alt="Screenshot 2026-04-05 141850" src="https://github.com/user-attachments/assets/e702d068-f386-481c-8331-df0af2fd4a97" />
 <img width="1529" height="466" alt="Screenshot 2026-04-05 142018" src="https://github.com/user-attachments/assets/4a001a40-148c-481f-940a-e4894fc2c36c" />
 
@@ -41,6 +42,7 @@ The waveform below demonstrates:
 - Stopwatch counting
 - Stopwatch pause condition
 - Stopwatch resume operation
+  
 <img width="1593" height="309" alt="Screenshot 2026-05-18 192519(1)" src="https://github.com/user-attachments/assets/13d6830d-cd2c-4b15-ac2c-9d64fe828772" />
 
 
@@ -59,6 +61,7 @@ The waveform below demonstrates:
 - Alarm activation
 - Proper alarm triggering condition
 - Correct waveform transition behavior
+  
 <img width="1481" height="325" alt="Screenshot 2026-05-18 195530(1)" src="https://github.com/user-attachments/assets/dba26611-05cc-4279-a95a-e8609c960e91" />
 
 
@@ -95,6 +98,7 @@ The waveform below clearly demonstrates:
 - Snooze signal assertion
 - Alarm deactivation
 - Alarm re-trigger after delay
+  
 <img width="1870" height="328" alt="Screenshot 2026-05-19 181007(1)" src="https://github.com/user-attachments/assets/5f99f5d1-9397-4480-87dd-b7b5f7ba110b" />
 
 
