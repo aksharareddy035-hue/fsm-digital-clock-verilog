@@ -74,6 +74,7 @@ The FSM was designed using three states:
 | 0 | IDLE |
 | 1 | RINGING |
 | 2 | SNOOZED |
+
 For simulation purposes, reduced timing values were used so the snooze delay could be verified quickly through waveform analysis.
 ### Working Principle
 1. Alarm enters the RINGING state
