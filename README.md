@@ -3,7 +3,7 @@
 ## Introduction
 
 This project was developed to understand the fundamentals of digital system design using Verilog HDL.
-The system combines multiple sequential logic components including:
+The system is used to combine multiple sequential logic components including:
 - Digital Clock
 - Stopwatch
 - Alarm System
