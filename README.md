@@ -95,10 +95,10 @@ A significant part of the project involved debugging the snooze behavior to ensu
 - Alarm re-triggers after the snooze delay
 
 The waveform below clearly demonstrates:
-- Alarm activation
-- Snooze signal assertion
-- Alarm deactivation
-- Alarm re-trigger after delay
+-Activation of the alarm
+-Assertion of the snooze signal
+-Deactivation of the alarm
+-Re-activation of the alarm after a specified delay
   
 <img width="1870" height="328" alt="Screenshot 2026-05-19 181007(1)" src="https://github.com/user-attachments/assets/5f99f5d1-9397-4480-87dd-b7b5f7ba110b" />
 
