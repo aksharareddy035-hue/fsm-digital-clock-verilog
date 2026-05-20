@@ -100,7 +100,7 @@ The waveform below clearly demonstrates:
 -Deactivation of the alarm
 -Re-activation of the alarm after a specified delay
   
-<img width="1860" height="327" alt="Screenshot 2026-05-19 181007(1)" src="https://github.com/user-attachments/assets/5f99f5d1-9397-4480-87dd-b7b5f7ba110b" />
+<img width="1870" height="328" alt="Screenshot 2026-05-19 181007(1)" src="https://github.com/user-attachments/assets/5f99f5d1-9397-4480-87dd-b7b5f7ba110b" />
 
 
 # Final Observations
